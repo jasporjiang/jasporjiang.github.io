@@ -13,3 +13,6 @@ This paper presents a pneumatically actuated haptic feedback glove for interacti
 [Download paper here](http://jasporjiang.github.io/files/pneumatic_soft_haptic_glove.pdf)
 
 Recommended citation:  Jiang, S., Chen, Y., Wang, W., Li, Q., & Brown, J. (2023). Pneumatic Soft Haptic Glove for Immersive Mixed-Reality Interactions. <i>IEEE World Haptics Conference</i>.
+
+![Pneumatic soft haptic glove with mixed-reality technique](/images/MRglove.jpg)
+_Pneumatic haptic glove captured in Unity 3D._
