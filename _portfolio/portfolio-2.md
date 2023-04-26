@@ -1,6 +1,6 @@
 ---
 title: "DaVinci-Assisted Ultrasonic Continuum Robot Navigation and Manipulation"
-excerpt: "Designed a continuum robot navigation and manipulation system to improve the reachability of DaVinci surgical robot<br/><img src='/images/davinci_project.png'>" # width='250' height='150'>"
+excerpt: "Designed a continuum robot navigation and manipulation system to improve the reachability of DaVinci surgical robot <br/><img src='/images/500x300.png' width='500' height='300'>"
 collection: portfolio
 ---
 
