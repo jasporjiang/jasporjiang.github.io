@@ -4,7 +4,7 @@ excerpt: "Build a team of 5 members to design, manufacture, and verify a prototy
 collection: portfolio
 ---
 **Computer Vision Guided Bolt Tightening Robot for Power Transmission Tower**<br/>
-Undergraduate Capstone Project<br/>
+Bachelor Capstone Project<br/>
 Sept 2021 – Dec 2021<br/>
 Instructor: Professor Youyi Bi, Sponsor: State Grid Corporation of China
 
