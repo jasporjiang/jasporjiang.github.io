@@ -1,6 +1,6 @@
 ---
 title: "Computer Vision Guided Bolt Tightening Robot for Power Transmission Tower"
-excerpt: "Build a team of 5 members to design, manufacture, and verify a prototype of a image-guided bolt tightening robot for power transmission towers<br/><img src='/images/capstone.png' width='500' height='300'>"
+excerpt: "Build a team of 5 members to design, manufacture, and verify a prototype of a image-guided bolt tightening robot for power transmission towers. <br/><img src='/images/capstone.png' width='500' height='300'>"
 collection: portfolio
 ---
 **Computer Vision Guided Bolt Tightening Robot for Power Transmission Tower**<br/>

@@ -40,8 +40,8 @@ Skills
   * continuum robot design and control <!-- : ROS and Python -->
 * Image-guided medical robotic system
   * imaging system design and implementation
-  * computer vision implementation
-<!-- * Skill 3 -->
+  * computer vision implementation using OpenCV and ROS
+  * image processing and data visualization using ImageJ and MATLAB
 
 Publications
 ------
