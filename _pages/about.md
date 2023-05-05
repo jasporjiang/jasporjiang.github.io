@@ -37,8 +37,10 @@ I completed my Bachelor at University of Michigan - Shanghai Jiao Tong Universit
 -----
 I am committed to promoting open and collaborative science, and enjoy sharing my knowledge and expertise with others. In my free time, you will find me traveling around the world, discovering the beauty of nature.
 
-![capstone project](/images/scuba.jpg)
-_Scuba diving at Mexico._
+<img src="/images/scuba.jpg" alt="Scuba diving at Mexico" width="50%" />
+
+<em>Scuba diving at Mexico.</em>
+
 
 <!-- 
 <html lang="en">
