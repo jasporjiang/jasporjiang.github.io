@@ -24,10 +24,10 @@ I completed my Bachelor at University of Michigan - Shanghai Jiao Tong Universit
 
 ### Education
 
-- MSc in Medical Robotics, Sep 2022 - present
-  - Johns Hopkins University, Maryland, United States
-- Bachelor in Mechanical Engineer, Sep 2018 - Jul 2022
-  - University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai, China
+- Master of Science in Medical Robotics, Sep 2022 - present
+  - **Johns Hopkins University**, Maryland, United States
+- Bachelor of Science in Mechanical Engineer, Sep 2018 - Jul 2022
+  - **University of Michigan - Shanghai Jiao Tong University Joint Institute**, Shanghai, China
 
 ### Work
 
