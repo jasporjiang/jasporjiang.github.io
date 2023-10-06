@@ -11,14 +11,14 @@ redirect_from:
 *Welcome!*
 ------ -->
 
-I’m Jaspor, a master student in medical robotics. From April 2022 to the present, I have been studying for a Master of Science at Laboratory for Computational Science and Robotics (LCSR) in Johns Hopkins University.
+I’m Jaspor, a master student in medical robotics. From April 2022 to the present, I have been studying for a Master of Science at Laboratory for Computational Science and Robotics (LCSR) in Johns Hopkins University, focusing on development of soft medical robotics and image-guided surgial robotics. 
 
 I completed my Bachelor at University of Michigan - Shanghai Jiao Tong University Joint Institute, where I pursued advanced design and manufacturing in the field of robotics engineering. Throughout my academic journey, I have garnered specialized skills in the development of computer vision assisted robots for the purpose of structural health monitoring systems. For more information on my research interests and projects, check out my [Research page](https://jasporjiang.github.io/publications/)!
 
 ### Interests
 
 - Image-guided medical robotics
-- Continuum robotic manipulation
+- Continuum robotics manipulation
 - Cooking traditional Chinese food
 - Scuba diving
 
@@ -31,15 +31,15 @@ I completed my Bachelor at University of Michigan - Shanghai Jiao Tong Universit
 
 ### Work
 
-- Technical Project Management Intern, Dec 2021 - May 2022
+- Advanced Manufacturing Engineer Internship, Dec 2021 - May 2022
   - Tesla (Shanghai) Co., Ltd.
 
 -----
 I am committed to promoting open and collaborative science, and enjoy sharing my knowledge and expertise with others. In my free time, you will find me traveling around the world, discovering the beauty of nature.
 
 <img src="/images/scuba.png" alt="Scuba diving at Mexico" width="50%" />
-
-<em>Scuba diving at Mexico.</em>
+<img src="/images/lava.jpg" alt="fuzzy family" width="50%" />
+<!-- <em>Scuba diving at Mexico.</em> -->
 
 
 <!-- 
