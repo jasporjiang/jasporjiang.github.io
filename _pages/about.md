@@ -11,9 +11,13 @@ redirect_from:
 *Welcome!*
 ------ -->
 
-I’m Jaspor, a master student in medical robotics. From April 2022 to the present, I have been studying for a Master of Science at Laboratory for Computational Science and Robotics (LCSR) in Johns Hopkins University, focusing on development of soft medical robotics and image-guided surgial robotics. 
+I'm Jaspor, a 2024 Ph.D. student at the Reconfigurable Robotics Lab (RRL) at EPFL, Switzerland. My work focuses on designing and building intelligent robots that can change their shape and function, inspired by origami, for tangible reality and human-robot interaction. I'm particularly interested in creating new types of robots that can be used in wearable tech, medical devices, and healthcare robotics.
 
-I completed my Bachelor at University of Michigan - Shanghai Jiao Tong University Joint Institute, where I pursued advanced design and manufacturing in the field of robotics engineering. Throughout my academic journey, I have garnered specialized skills in the development of computer vision assisted robots for the purpose of structural health monitoring systems. For more information on my research interests and projects, check out my [Research page](https://jasporjiang.github.io/publications/)!
+Before starting my Ph.D., I earned my Master’s degree at the Laboratory for Computational Science and Robotics (LCSR) at Johns Hopkins University. There, I worked on medical robotics and explored how robotics could interact with AR/MR tech as well as soft material. My background in robotics engineering comes from my undergraduate studies at the University of Michigan - Shanghai Jiao Tong University Joint Institute, where I specialized in advanced design and manufacturing. 
+
+For more information on my research interests and projects, check out my [Research page](https://jasporjiang.github.io/publications/)!
+
+I care about promoting open, collaborative, and reproducible science. In my free time, you will find me traveling around the world, discovering the beauty of nature.
 
 ### Interests
 
@@ -23,8 +27,9 @@ I completed my Bachelor at University of Michigan - Shanghai Jiao Tong Universit
 - Scuba diving
 
 ### Education
-
-- Master of Science in Medical Robotics, Sep 2022 - present
+- PhD in Reconfigurable Robotics Lab, Aug 2024 - present
+  - **Ecole Polytechnique Fédérale de Lausanne (EPFL)**, Lausanne, Switzerland
+- Master of Science in Medical Robotics, Sep 2022 - May 2024
   - **Johns Hopkins University**, Maryland, United States
 - Bachelor of Science in Mechanical Engineer, Sep 2018 - Jul 2022
   - **University of Michigan - Shanghai Jiao Tong University Joint Institute**, Shanghai, China
